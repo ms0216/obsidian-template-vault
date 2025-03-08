@@ -6,4 +6,5 @@
 !/.obsidian/community-plugins.json
 !/.obsidian/plugins
 .obsidian/plugins/dataview/*
+!/.obsidian/plugins/dataview/data.json
 .obsidian/plugins/obsidian-tasks-plugin/*
