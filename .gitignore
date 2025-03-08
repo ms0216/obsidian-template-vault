@@ -1,5 +1,6 @@
 .trash
 .obsidian/graph.json
+.obsidian/types.json
 .obsidian/workspace.json
 !/.obsidian/plugins
 .obsidian/plugins/dataview/*
