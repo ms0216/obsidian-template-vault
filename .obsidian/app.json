@@ -4,5 +4,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "98_未整理ノート"
+  "newFileFolderPath": "98_未整理ノート",
+  "attachmentFolderPath": "./attachments"
 }
