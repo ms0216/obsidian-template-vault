@@ -1,7 +1,8 @@
 .trash
-.obsidian/graph.json
-.obsidian/workspace.json
-!/.obsidian/plugins
-.obsidian/plugins/dataview/*
-!/.obsidian/plugins/dataview/data.json
-.obsidian/plugins/obsidian-tasks-plugin/*
+graph.json
+types.json
+workspace.json
+!/plugins
+plugins/dataview/*
+!/plugins/dataview/data.json
+plugins/obsidian-tasks-plugin/*
