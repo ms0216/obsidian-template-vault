@@ -5,3 +5,4 @@ workspace.json
 plugins/dataview/*
 !/plugins/dataview/data.json
 plugins/obsidian-tasks-plugin/*
+themes
