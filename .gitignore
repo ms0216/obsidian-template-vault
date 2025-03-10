@@ -7,4 +7,6 @@ plugins/dataview/*
 plugins/obsidian-tasks-plugin/*
 plugins/obsidian-minimal-settings/*
 !plugins/obsidian-minimal-settings/data.json
+plugins/obsidian-git/*
+!plugins/obsidian-git/data.json
 themes
